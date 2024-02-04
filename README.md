@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohit Garg
-- 👀 I’m interested in developing software in Java & JavaScript.
-- 🌱 I’m currently learning node js.
+- 👀 I’m interested in developing software in Python.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach out to me @ mmcgarg@gmail.com
 
