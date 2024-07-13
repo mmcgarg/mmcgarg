@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohit Garg
-- 👀 I’m interested in developing software in Python.
+- 👀 I’m interested in building applications and leading teams.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach out to me @ mmcgarg@gmail.com
 
